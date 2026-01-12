@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h9800195eg4318g4d96ga616g019119609977" version="1">NPC Scanning</content>
+	<content contentuid="he5696a50g5aacg48beg87d3ga680eafa24cc" version="1">Spells for gathering the GUIDs and handles of NPCs which can be used in Combat Extender configuration.
+Check the Script Extender console for data output.</content>
+	<content contentuid="h75a43ed0gb5f4g4fcdgb6ccgad8bb510457c" version="1">NPC Scan 10</content>
+	<content contentuid="h0bf21443g88ccg4e3cga931g951fcdcfa3f3" version="1">Scan NPCs in a radius of [1]. </content>
+	<content contentuid="hc6b70224g47bag4be4g9e41g01596fb68c4c" version="1">NPC Scan 25</content>
+	<content contentuid="ha13af2a4gf7bcg49e1ga19ag97d850aa6722" version="1">Scan NPCs in a radius of [1]. </content>
+	<content contentuid="ha4c25711gcbffg4b18ga2ecgc34ccc5f2417" version="1">NPC Scan 50</content>
+	<content contentuid="ha1695e67gaff8g4d9bgb2f9g8255ad773272" version="1">Scan NPCs in a radius of [1]. </content>
+	<content contentuid="h9eb3ae72g8717g47a9g9079gf2eb612595ae" version="1">NPC Scan 100</content>
+	<content contentuid="h96f698a9g97ffg4d75g828eg4a57394be5b6" version="1">Scan NPCs in a radius of [1]. </content>
+	<content contentuid="hd1c6fbffgf8eeg4715g9374g759e8a144cb6" version="1">NPC Scan 500</content>
+	<content contentuid="hc8916d2age9a2g4114g9942g91ecba6e33ba" version="1">Scan NPCs in a radius of [1]. </content>
+	<content contentuid="h5524c11fg4922g4d98ga8ddgdf897b142f54" version="1">NPC Scan 1000</content>
+	<content contentuid="h412841d0gc5d9g4aa7g8696g705436318a54" version="1">Scan NPCs in a radius of [1]. </content>
+</contentList>

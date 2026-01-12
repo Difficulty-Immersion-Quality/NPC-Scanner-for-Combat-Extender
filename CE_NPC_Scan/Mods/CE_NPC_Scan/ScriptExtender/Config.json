@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 18,
+    "ModTable": "CE_NPC_Scan",
+    "FeatureFlags": ["Lua"]
+}
