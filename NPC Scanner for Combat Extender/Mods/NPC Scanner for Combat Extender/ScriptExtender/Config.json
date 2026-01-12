@@ -1,5 +1,5 @@
 {
     "RequiredVersion": 18,
-    "ModTable": "CE_NPC_Scan",
+    "ModTable": "NPC Scanner for Combat Extender",
     "FeatureFlags": ["Lua"]
 }
